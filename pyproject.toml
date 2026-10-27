@@ -9,7 +9,8 @@ dependencies = [
     "pandas",
     "numpy",
     "matplotlib",
-    "seaborn"
+    "seaborn",
+    "sklearn"
 ]
 
 [tool.uv]
