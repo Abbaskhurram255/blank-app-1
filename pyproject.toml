@@ -10,7 +10,7 @@ dependencies = [
     "numpy",
     "matplotlib",
     "seaborn",
-    "sklearn"
+    "scikit-learn"
 ]
 
 [tool.uv]
