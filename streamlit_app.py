@@ -8,4 +8,4 @@ st.write(
     "💕All good"
 )
 penguins: pd.DataFrame = sns.load_dataset("penguins")
-st.wrire(penguins)
+st.write(penguins)
