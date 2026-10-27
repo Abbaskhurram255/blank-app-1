@@ -7,5 +7,5 @@ st.title("My new app")
 st.write(
     "💕All good"
 )
-penguins: pd.DataFrame = fetch_california_housing(as_frame=True).frame
-st.line_plot(penguins, x="flipper_length_mm", y="sex")
+housing: pd.DataFrame = fetch_california_housing(as_frame=True).frame
+st.line_plot(housing, x="flipper_length_mm", y="sex")
